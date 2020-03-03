@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tips" transform="translate(-39.000000, -134.000000)">
+            <g id="tips" transform="translate(39.000000, 79.000000)">
+                <g id="Group" transform="translate(0.000000, 55.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="82" height="82"></rect>
+                    <path d="M37.8942407,61 C47.2933277,61 57.6623343,52.2059445 57.6623343,41 C57.6623343,29.7940555 47.2933277,21 37.8942407,21 C28.4951538,21 25,33.8242022 25,43.0150734 C25,52.2059445 28.4951538,61 37.8942407,61 Z" id="Weird-Shape" fill="#FDEDB5"></path>
+                    <g id="bulb" transform="translate(27.000000, 23.000000)" stroke="#4716B5" stroke-linecap="round" stroke-linejoin="round">
+                        <g id="Path">
+                            <path d="M8,29.9135107 L20,29.9135107" stroke-width="2"></path>
+                            <path d="M6,8 L7.16666667,8 C10.3883233,8 13,10.5583771 13,13.7142857 L13,16 L11.8333333,16 C8.61167667,16 6,13.4416229 6,10.2857143 L6,8 Z" stroke-width="2"></path>
+                            <path d="M13.6194822,29.8270207 L13.6194822,6" stroke-width="2"></path>
+                            <path d="M21,13 L19.8333333,13 C16.6116767,13 14,15.5583771 14,18.7142857 L14,21 L15.1666667,21 C18.3883233,21 21,18.4416229 21,15.2857143 L21,13 Z" stroke-width="2"></path>
+                            <path d="M27.6286071,13.2345962 C27.6286071,5.49983298 20.6598288,-0.669840456 12.4302679,0.214237322 C6.42671719,0.859187119 1.46053898,5.40874228 0.539133543,11.1495294 C-0.416194744,17.1017455 2.80327905,22.4356862 7.8051766,24.8973867 L7.8051766,29.9135107 C7.8051766,33.2033432 10.5786852,35.8702659 13.9999986,35.8702659 L14.000011,35.8702659 C17.4213121,35.8702659 20.1948207,33.2033432 20.1948207,29.9135226 L20.1948207,24.8973986 C24.6043198,22.7272336 27.6286071,18.3248937 27.6286071,13.2345962 Z" stroke-width="2"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
